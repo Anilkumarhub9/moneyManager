@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.delete-image {
+  height: 20px;
+  width: 15px;
+  display: flex;
+  align-self: center;
+}
+.list-row {
+  display: flex;
+  flex-direction: row;
+  border-top-style: groove;
+}
+.list-names {
+  margin-right: 20px;
+  padding-left: 15px;
+  font-weight: 600;
+  font-size: 12px;
+}
+.button {
+  background-color: #ffffff;
+  border-width: 0px;
+}
